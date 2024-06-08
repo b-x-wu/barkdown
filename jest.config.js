@@ -3,5 +3,6 @@ export default {
     testEnvironment: 'node',
     roots: [ '<rootDir>' ],
     moduleFileExtensions: [ 'ts', 'tsx', 'js', 'jsx' ],
+    collectCoverage: true,
 };
 
